@@ -1,0 +1,28 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+html,body,#root{
+  height: 100%;
+  background: #517da4;
+}
+
+.main-container{
+  height: 100%;
+}
+
+.main-item{
+  min-height:calc(100% - 100px);
+  border-radius: 4px;
+  background: #fff;
+}
+
+
+.margin-top-5{
+  margin-top: 5px !important;
+}
+.margin-top-10{
+  margin-top: 10px !important;
+}
+
+

@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "antablack",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "chalk": "^2.3.0",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "ua-parser-js": "^0.7.17"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
